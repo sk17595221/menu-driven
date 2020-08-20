@@ -1,5 +1,5 @@
 # menu-driven
-this is a python program for run a app using cmd in window
+# this is a python program for run a app using cmd in window
 import os
 import pyttsx3
 while True:
