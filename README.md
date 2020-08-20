@@ -19,7 +19,6 @@ while True:
     print("\n11.restart")
     print("\n12.jupyternotebook")
     print("\n13.exit")
-    
     print("chat with me with your requirements : "  , end='')
     p = input()
     if ("run" in p)  and ("chrome" in p):
